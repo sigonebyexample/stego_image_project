@@ -21,11 +21,11 @@ Steganography is the practice of concealing a message within another message or 
 
 ## Installation
 
-1. Clone this repository:
-
 git clone https://github.com/sigonebyexample/stego_image_project.git
 cd stego_image_project
+
 ##Install dependencies
 pip install -r requirements.txt
-##Usage
 
+##Usage
+python sego.py
