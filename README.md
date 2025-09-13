@@ -24,8 +24,8 @@ Steganography is the practice of concealing a message within another message or 
 git clone https://github.com/sigonebyexample/stego_image_project.git
 cd stego_image_project
 
-##Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-##Usage
+## Usage
 python sego.py
